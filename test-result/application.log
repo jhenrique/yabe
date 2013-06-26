@@ -1,0 +1,5 @@
+25 Jun 2013 22:32:10,742 INFO  ~ Starting /home/ze/Projetos/Desenvolvimento/workspaces/workspaceJava/yabe
+25 Jun 2013 22:32:11,147 WARN  ~ You're running Play! in DEV mode
+25 Jun 2013 22:32:11,203 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+25 Jun 2013 22:33:13,081 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+25 Jun 2013 22:33:13,580 INFO  ~ Application 'java' is now started !
